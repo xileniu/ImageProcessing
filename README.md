@@ -1,1 +1,1 @@
-#This repository contains some useful scripts for image processing
+This repository contains some useful scripts for image processing.
